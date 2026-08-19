@@ -1,0 +1,6 @@
+{
+  "name": "IntelliSchedule",
+  "description": "Clean, minimalist academic task management & self-healing dynamic schedule platform for college students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
